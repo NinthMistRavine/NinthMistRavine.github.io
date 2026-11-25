@@ -1,7 +1,7 @@
 // 只需修改这里，网站会自动更新。文字请保留引号和逗号。
 const portfolio = {
   name: "李伟聪",
-  shortName: "NinthMistRavine",
+  shortName: "LWC",
   initials: "LWC",
   title: "Python 开发与数据采集",
   summary: "用代码把开放数据变成可理解的信息。我专注网页采集、数据清洗与自动化流程。",
